@@ -1,6 +1,7 @@
 # Build results
 *.suo
 *.user
+*global.json
 [Pp]ublish/
 **/obj/
 **/Debug/
